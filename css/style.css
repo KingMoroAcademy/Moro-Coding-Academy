@@ -1,0 +1,12 @@
+body:before {
+  display: block;
+  content: "";
+  height: 60px;
+}
+
+/* News Letter */
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}/*# sourceMappingURL=style.css.map */
